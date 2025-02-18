@@ -1,0 +1,14 @@
+[font]
+size = 8.5
+
+[font.normal]
+family = "monospace"
+
+[selection]
+save_to_clipboard = true
+
+# Keyboard bidnings
+[keyboard]
+bindings = [
+{ key = "V", mods = "Control|Alt", action = "ToggleViMode" }, # Toggle vi mode using Ctrl+V
+]
